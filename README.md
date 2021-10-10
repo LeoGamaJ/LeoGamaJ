@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Leo Gama</h1>
 <h3 align="center">I am a Systems Analysis and Development student</h3>
