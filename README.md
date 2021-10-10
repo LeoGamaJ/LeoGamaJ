@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **leogama.j1@gmail.com**
 
-- 📄 Know about my experiences [leonardo-gama-jardim-597001190](linkedin.com/in/leonardo-gama-jardim-597001190)
+- 📄 Know about my experiences [https://www.linkedin.com/in/leonardo-gama-jardim-597001190](linkedin.com/in/leonardo-gama-jardim-597001190)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
