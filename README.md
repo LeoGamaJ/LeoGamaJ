@@ -5,14 +5,11 @@
 - 🌱 I’m currently studying **Systems Analysis and Development at Centro Universitário Joaquim Nabuco and the course Architecting with Google Compute Engine at Grow with Google. I'm also certified by Grow with Google in IT support.**
 
 - 👯 I’m looking to collaborate on **Systems analysis and development projects, web development, google cloud service and linux.**
-
 - 📝 I regularly write articles on [@leogamaj](https://medium.com/leogamaj)
-
 - 💬 Ask me about **Technology, web development, cloud services, Linux and Python.**
-
 - 📫 How to reach me **leogama.j1@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/leonardo-gama-jardim-597001190](linkedin.com/in/leonardo-gama-jardim-597001190)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
