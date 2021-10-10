@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Leo Gama</h1>
-<h3 align="center">I am a Systems Analysis and Development student</h3>
+<h3 align="center">I am a Systems Analyst and Developer</h3>
 
 - 🌱 I’m currently studying **Systems Analysis and Development at Centro Universitário Joaquim Nabuco and the course Architecting with Google Compute Engine at Grow with Google. I'm also certified by Grow with Google in IT support.**
 
