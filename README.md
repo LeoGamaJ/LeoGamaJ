@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **Systems analysis and development projects, web development, google cloud service and linux.**
 
-- 📝 I regularly write articles on [https://medium.com/leogamaj](https://medium.com/leogamaj)
+- 📝 I regularly write articles on [@leogamaj](https://medium.com/leogamaj)
 
 - 💬 Ask me about **Technology, web development, cloud services, Linux and Python.**
 
