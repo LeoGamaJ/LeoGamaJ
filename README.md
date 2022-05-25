@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Leo Gama</h1>
 <h3 align="center">I am a Systems Analyst and Developer</h3>
 
-- 🌱 I’m currently studying **Systems Analysis and Development at Centro Universitário Joaquim Nabuco and the course Architecting with Google Compute Engine at Grow with Google. I'm also certified by Grow with Google in IT support.**
+- 🌱 Graduated in Systems Analysis and Development, I have an IT Support certificate. by Grow with Google.**
 
-- 👯 I’m looking to collaborate on **Systems analysis and development projects, web development, google cloud service and linux.**
-- 📝 I regularly write articles on [@leogamaj](https://medium.com/leogamaj)
-- 💬 Ask me about **Technology, web development, cloud services, Linux and Python.**
+- 👯 Atualmete: **Trainee em Big Data na Hvar Consulting** 
+- 📝 I’m looking to collaborate on **Python, SQL, Google Cloud, HTML, CSS e Linux.** 
+- 💬 I regularly write articles on [@leogamaj](https://medium.com/leogamaj)
 - 📫 How to reach me **leogama.j1@gmail.com**
 
 
