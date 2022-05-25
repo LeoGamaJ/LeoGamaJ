@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Leo Gama</h1>
-<h3 align="center">I am a Systems Analyst and Developer</h3>
+<h3 align="center">I am a Data Analyst, Systems Analyst and Developer</h3>
 
 - 🌱 Graduated in Systems Analysis and Development, I have an IT Support certificate. by Grow with Google.**
 
