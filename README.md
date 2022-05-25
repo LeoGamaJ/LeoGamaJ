@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Leo Gama</h1>
 <h3 align="center">I am a Data Analyst, Systems Analyst and Developer</h3>
 
-- 🌱 Graduated in Systems Analysis and Development, I have an IT Support certificate. by Grow with Google.**
+- 🌱 Graduated in **Systems Analysis and Development and I have IT Support certificate by Grow with Google.**
 
 - 👯 Atualmete: **Trainee em Big Data na Hvar Consulting** 
 - 📝 I’m looking to collaborate on **Python, SQL, Google Cloud, HTML, CSS e Linux.** 
