@@ -4,7 +4,7 @@
 
 - 🌱 Graduated in **Systems Analysis and Development and I have IT Support certificate by Grow with Google.**
 
-- 👯 Atualmete: **Trainee em Big Data na Hvar Consulting** 
+- 👯 At the moment: **Trainee em Big Data na Hvar Consulting** 
 - 📝 I’m looking to collaborate on **Python, SQL, Google Cloud, HTML, CSS e Linux.** 
 - 💬 I regularly write articles on [@leogamaj](https://medium.com/leogamaj)
 - 📫 How to reach me **leogama.j1@gmail.com**
