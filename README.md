@@ -3,10 +3,9 @@
 <h3 align="center">I am a Data Analyst, Systems Analyst and Developer</h3>
 
 - 🌱 Graduated in **Systems Analysis and Development and I have IT Support certificate by Grow with Google.**
-
-- 👯 At the moment: **Trainee em Big Data na Hvar Consulting** 
+ 
 - 📝 I’m looking to collaborate on **Python, SQL, Google Cloud, HTML, CSS e Linux.** 
-- 💬 I regularly write articles on [@leogamaj](https://medium.com/leogamaj)
+- 💬 I regularly write articles on [Data Future](https://dtfuture.com.br)
 - 📫 How to reach me **leogama.j1@gmail.com**
 
 
