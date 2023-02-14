@@ -4,7 +4,7 @@
 
 - 🌱 Graduated in **Systems Analysis and Development and I have IT Support certificate by Grow with Google.**
  
-- 📝 I’m looking to collaborate on **Python, SQL, Google Cloud, HTML, CSS e Linux.** 
+- 📝 I’m looking to collaborate on **Python, SQL, Google Cloud, HTML, CSS, Linux e Git.** 
 - 💬 I regularly write articles on [Data Future](https://dtfuture.com.br)
 - 📫 How to reach me **leogama.j1@gmail.com**
 
