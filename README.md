@@ -6,11 +6,13 @@
 
  </div></br>
 
-- 🌱 Graduated in **Systems Analysis and Development, Postgraduate in Data Analysis, and currently studying for a degree in Data Science**.
- 
+- 🌱 My dream is to one day become a Data Scientist who knows where data comes from and where it goes.
+  
+</br>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leogamaj&hide_progress=true)
 
-## Tecnologias 
+## Technologies 
 <div style="display: inline_block"><br>
  <img align="center" = alt="" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
  <img align="center" = alt="" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
