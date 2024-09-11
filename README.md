@@ -6,7 +6,7 @@
 
  </div></br>
 
-- 🌱 My dream is to one day become a Data Scientist who knows where data comes from and where it goes.
+- 🌱 growing...
   
 </br>
 
