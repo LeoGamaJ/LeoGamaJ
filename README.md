@@ -5,6 +5,7 @@
   [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-gama-jardim/) [![Social](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/leogamaj)
 
  </div></br>
+ 
 <h2 align="left">About Me</h2>
 
 ###
@@ -33,6 +34,19 @@
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
+###
+
+<h2 align="left">AI</h2>
+
+###
+
+![GEMINI](https://img.shields.io/badge/GEMINI-FF6F61?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAHElEQVQI12P4//8/w38GIAXDIBKE0dhZgl6AAAAJcEhZcwAADsMAAA7DAcdvqGQAAAANSURBVAiZY3gPAAAAAAQABQABoGqAAAAAElFTkSuQmCC&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-FF6D00?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAHElEQVQI12P4//8/w38GIAXDIBKE0dhZgl6AAAAJcEhZcwAADsMAAA7DAcdvqGQAAAANSURBVAiZY3gPAAAAAAQABQABoGqAAAAAElFTkSuQmCC&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-0078D7?style=for-the-badge&logo=artstation&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-4A90E2?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAHElEQVQI12P4//8/w38GIAXDIBKE0dhZgl6AAAAJcEhZcwAADsMAAA7DAcdvqGQAAAANSURBVAiZY3gPAAAAAAQABQABoGqAAAAAElFTkSuQmCC&logoColor=white)
+![Grok](https://img.shields.io/badge/Grok-5A67D8?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAHElEQVQI12P4//8/w38GIAXDIBKE0dhZgl6AAAAJcEhZcwAADsMAAA7DAcdvqGQAAAANSURBVAiZY3gPAAAAAAQABQABoGqAAAAAElFTkSuQmCC&logoColor=white)
+![Copilot](https://img.shields.io/badge/Copilot-24B47E?style=for-the-badge&logo=github&logoColor=white)
 
 ###
 
